@@ -1,4 +1,4 @@
-# Natural_Systems_Simulation_Lab_ITMO
+# Natural Systems Simulation Lab ITMO
 
 **Role:** Data Analyst | Business Analyst at ITMO University, Laboratory of Artificial Intelligence
 
